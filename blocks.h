@@ -16,12 +16,12 @@ static const Block blocks[] = {
 	/* {"",	"sb-price btc Bitcoin 💰",				9000,	21}, */
 	//{"",	"sb-torrent",	20,	7},
 	{"",	"sb-nettraf",	1,	16},
-	{"",	"sb-cpu",		10,	18},
-	{"",	"sb-memory",	10,	14},
+	{"",	"sb-cpu",	1,	18},
+	{"",	"sb-memory",	1,	14},
 	/* {"",	"sb-moonphase",	18000,	17}, */
-	{"",	"sb-forecast",	18000,	5},
+	{"",	"sb-forecast",	900,	5},
 	//{"",	"sb-mailbox",	180,	12},
-	//{"",	"sb-volume",	0,	10},
+	{"",	"sb-volume",	0,	1},
 	//{"",	"sb-battery",	5,	3},
 	{"",	"sb-clock",	60,	1},
 	//{"",	"sb-internet",	5,	4},
